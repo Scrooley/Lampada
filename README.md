@@ -17,7 +17,7 @@ Projeto sobre uma simples Lampada com foco em JavaScript. <br/>
 <br>
 
 <p align="center">
-  <img alt="lampada" src=".github/preview.png" width="50%">
+  <img alt="lampada" src=".github/preview.png" width="30%">
 </p>
 
 ## 🚀 Tecnologias
