@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este Cadastro é uma interface gráfica básica que permite aos usuários inserirem informações pessoais, como nome e senha, e então clicar no botão "Entrar" para realizar o cadastro.
+Uma simples interface com o proposito de ações do javascript, como: "Ligar", "Desligar" e "Quebrar" ao clicar 2x na lampada.
 
 ## :memo: Licença
 
